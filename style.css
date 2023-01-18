@@ -1,0 +1,37 @@
+/* Styling goes in this file */
+body {
+  background-color: white;
+}
+
+title {
+  color: black;
+  text-align: center;
+}
+
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+
+
+p {
+	color: darkgreen;
+  font-family: ariel;
+  font-size: 12px;
+}
+
+
+container {
+
+}
