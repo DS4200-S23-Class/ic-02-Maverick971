@@ -1,7 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-(GitHub Pages)[insert your hyperlink here]
+(GitHub Pages)file:///Users/georgedoty/ic-02-Maverick971/index.html
 
 ## Purpose
 
