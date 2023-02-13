@@ -1,8 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-(GitHub Pages)file:///Users/georgedoty/ic-02-Maverick971/index.html
-
+(GitHub Pages) [link] (file:///Users/georgedoty/ic-06-george-travis/index.html)
 ## Purpose
 
 The purpose of this assignment is to practice HTML and CSS.  
